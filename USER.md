@@ -10,7 +10,7 @@
 ## Preferences
 
 - **Default model:** Kimi (kimi-k2-thinking) — to save costs
-- **Fallbacks:** Gemini Flash → Anthropic Sonnet (last resort)
+- **Fallbacks:** Gemini Flash only (Anthropic available on request)
 - **Brave Search:** Free tier — use sparingly
 
 ## Interests
