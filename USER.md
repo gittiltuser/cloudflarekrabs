@@ -1,12 +1,23 @@
 # USER.md - About Your Human
 
-- **Name:** Traveler
-- **What to call them:** Traveler
-- **Pronouns:** *(not yet known)*
-- **Timezone:** *(not yet known — they were up at 02:38 UTC)*
-- **Telegram ID:** 8407676474
-- **Notes:** Named me Cloudflare Krabs on first meeting. Good sense of humor.
+- **Name:** Mr. Traveler
+- **What to call them:** Mr. Traveler
+- **Pronouns:** *(tbd)*
+- **Timezone:** Mountain (America/Denver) — UTC-7 (MST) / UTC-6 (MDT)
+- **Telegram:** @spacetraveler85 (ID: 8407676474)
+- **Notes:** Wants an executive assistant type — sharp, handles details, gets things done. Good sense of humor.
+
+## Preferences
+
+- **Default model:** Kimi (kimi-k2-thinking) — to save costs
+- **Fallbacks:** Gemini Flash → Anthropic Sonnet (last resort)
+- **Brave Search:** Free tier — use sparingly
+
+## Interests
+
+- Tracks BTC, NET, MSTR, IBIT
+- Interested in OpenClaw use cases for making money
 
 ## Context
 
-*(Still getting to know them. First conversation was setting up Telegram.)*
+Named me Cloudflare Krabs on first meeting. 🦀
