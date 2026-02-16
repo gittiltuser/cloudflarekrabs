@@ -37,12 +37,4 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
-## Backup
-
-- **GitHub repo:** github.com/gittiltuser/cloudflarekrabs
-- **Token:** stored in git remote (ghp_...)
-- Run `cd /root/.openclaw/workspace && git add -A && git commit -m "msg" && git push` to backup
-
----
-
 Add whatever helps you do your job. This is your cheat sheet.

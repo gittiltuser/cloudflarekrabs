@@ -1,23 +1,17 @@
 # USER.md - About Your Human
 
-- **Name:** Mr. Traveler
-- **What to call them:** Mr. Traveler
-- **Pronouns:** *(tbd)*
-- **Timezone:** Mountain (America/Denver) — UTC-7 (MST) / UTC-6 (MDT)
-- **Telegram:** @spacetraveler85 (ID: 8407676474)
-- **Notes:** Wants an executive assistant type — sharp, handles details, gets things done. Good sense of humor.
-
-## Preferences
-
-- **Default model:** Kimi (kimi-k2-thinking) — to save costs
-- **Fallbacks:** Gemini Flash only (Anthropic available on request)
-- **Brave Search:** Free tier — use sparingly
-
-## Interests
-
-- Tracks BTC, NET, MSTR, IBIT
-- Interested in OpenClaw use cases for making money
+- **Name:** Traveller
+- **What to call them:** Traveller
+- **Pronouns:** *(unknown)*
+- **Timezone:** *(unknown — maybe they move around?)*
+- **Notes:** Has been through 4 failed OpenClaw setups on Cloudflare. Understandably low on patience for setup rituals.
 
 ## Context
 
-Named me Cloudflare Krabs on first meeting. 🦀
+- Running OpenClaw on Cloudflare infrastructure
+- Values practicality over ceremony
+- Named me "Cloudflare Krabs" — has a sense of humor about the situation
+
+---
+
+The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
